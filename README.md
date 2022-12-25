@@ -2,8 +2,9 @@
 
 ### Projenin amacı
 - Spring-Boot projesidir. Bir entity class tanımlamak ve bu class ile birlikte Config,Service,Controller,Converter,Exception, Repository classlarını oluşturarak projeyi ayağa kaldırmak. Hibernate, PostgreSQL, Validation, Lombok gibi bağımlılıklar eklenerek yazılmıştır. Detaylar içerikte yer almaktadır. 
--  
-#### Proje İçeriği
+
+
+### Proje İçeriği
 - Customer(entity) class oluşturuldu. Tüm fieldlar içinde annotationlar ile birlikte tanımlandı. 
 - Entity içinde tanımlı field için enum class oluşturuldu.
 - DTO package içinde Request-Response sorguları için class oluşturuldu.
