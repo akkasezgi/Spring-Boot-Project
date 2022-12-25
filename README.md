@@ -1,7 +1,7 @@
 # Spring-Boot-Project
 
--Customer(entity) class oluşturuldu. Tüm fieldlar içinde annotationlar ile birlikte tanımlandı. 
--Entity içinde tanımlı field için enum class oluşturuldu.
+#Customer(entity) class oluşturuldu. Tüm fieldlar içinde annotationlar ile birlikte tanımlandı. 
+#Entity içinde tanımlı field için enum class oluşturuldu.
 -DTO package içinde Request-Response sorguları için class oluşturuldu.
 -Request içinde add-update, response içinde CustomerResponse classı oluşturuldu. 
 -Converter class içinde istek atma ve gelen isteği cevirmek için gerekli method tanımlamaları yapıldı.
